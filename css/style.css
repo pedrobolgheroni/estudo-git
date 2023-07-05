@@ -2,7 +2,10 @@ body{
     background-color: cornflowerblue;
 }
 
-
 p{
-    color: whitesmoke;
+    color: white;
+}
+
+li {
+    color: bisque;
 }
